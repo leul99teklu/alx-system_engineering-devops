@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# displays "bad luck" for 4th iteration, "good luck" for 8th and "Best School" for others in range of 10 using "while and if-else"
+dis=1
+while [ $dis -le 10 ]
+do
+    if [ $dis -eq 4 ]
+    then
+	echo "bad luck"
+    elif [ $dis -eq 8 ]
+    then
+	echo "good luck"
+    else
+	echo "Best School"
+    fi
+    
+dis=$((dis + 1))  
+done
