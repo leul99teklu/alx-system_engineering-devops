@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# displays: The content of the current directory in ls-l and using "for".
+for content in *;
+do
+	echo "$content" | cut -d'-' -f2
+done
