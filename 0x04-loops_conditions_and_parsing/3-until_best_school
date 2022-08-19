@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Bash script that displays Best School 10 times using "until".
+dis=10
+until [ $dis -lt 1 ];
+do
+     echo "Best School"
+     dis=$((dis - 1))
+done
