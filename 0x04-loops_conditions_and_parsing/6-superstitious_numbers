@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# prints out 1-20 and displays "bad luck from China", "bad luck from Japan" and "bad luck from Italy" at the 4th, 9th and 17th position respectively using "while and case".
+dis=1
+while [ $dis -le 20 ]
+do
+    case $dis in
+	4)
+	    echo "$dis"
+	    echo "bad luck from China"
+	    ;;
+	9)
+	    echo "$dis"
+	    echo "bad luck from Japan"
+	    ;;
+	17)
+	    echo "$dis"
+	    echo "bad luck from Italy"
+	    ;;
+	*)
+	    echo "$dis"
+	    ;;
+    esac 
+dis=$((dis + 1))  
+done
