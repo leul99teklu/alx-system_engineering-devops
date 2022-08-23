@@ -1,6 +1,6 @@
 # 0x06. Regular expression
 
-1[](https://alx-intranet.hbtn.io/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg)
+![](https://alx-intranet.hbtn.io/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg)
 
 0. Simply matching School
 1. Repetition Token #0
