@@ -2,7 +2,7 @@
 
 0. OSI model
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T070037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5211f0a0221decc090ef22626c8185beb4640d41def0b750b0486c95dbb0e834)(https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T070037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bf89e451f2f896e05687ad7b6b3391126255ad725d4ecd8948349be336c1f07d)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T070037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5211f0a0221decc090ef22626c8185beb4640d41def0b750b0486c95dbb0e834)![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220824T070037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bf89e451f2f896e05687ad7b6b3391126255ad725d4ecd8948349be336c1f07d)
 
 1. Types of network
 
