@@ -1,0 +1,98 @@
+Get:1 http://kali.download/kali kali-rolling InRelease [30.6 kB]
+Get:2 http://kali.download/kali kali-rolling/main amd64 Packages [18.7 MB]
+Hit:3 https://brave-browser-apt-release.s3.brave.com stable InRelease
+Get:4 http://kali.download/kali kali-rolling/main amd64 Contents (deb) [43.4 MB]
+Get:5 http://packages.microsoft.com/repos/code stable InRelease [10.4 kB]
+Get:6 http://packages.microsoft.com/repos/code stable/main amd64 Packages [114 kB]
+Hit:7 https://deb.nodesource.com/node_14.x bullseye InRelease
+Get:8 http://packages.microsoft.com/repos/code stable/main armhf Packages [115 kB]
+Get:9 http://packages.microsoft.com/repos/code stable/main arm64 Packages [115 kB]
+Fetched 62.5 MB in 23s (2,756 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  abootimg device-tree-compiler fake-hwclock golang-1.18-go golang-1.18-src
+  jupyter-core jupyter-nbextension-jupyter-js-widgets jupyter-notebook
+  kali-linux-arm libatk1.0-data libcmark-gfm-extensions0.29.0.gfm.3
+  libcmark-gfm0.29.0.gfm.3 libdbus-1-dev libgnuradio-analog3.10.3
+  libgnuradio-audio3.10.3 libgnuradio-blocks3.10.3 libgnuradio-channels3.10.3
+  libgnuradio-digital3.10.3 libgnuradio-dtv3.10.3 libgnuradio-fec3.10.3
+  libgnuradio-fft3.10.3 libgnuradio-filter3.10.3 libgnuradio-iio3.10.3
+  libgnuradio-network3.10.3 libgnuradio-pdu3.10.3 libgnuradio-pmt3.10.3
+  libgnuradio-qtgui3.10.3 libgnuradio-runtime3.10.3 libgnuradio-soapy3.10.3
+  libgnuradio-trellis3.10.3 libgnuradio-uhd3.10.3 libgnuradio-video-sdl3.10.3
+  libgnuradio-vocoder3.10.3 libgnuradio-wavelet3.10.3 libgnuradio-zeromq3.10.3
+  libjs-backbone libjs-bootstrap-tour libjs-codemirror libjs-es6-promise
+  libjs-jed libjs-jquery-typeahead libjs-marked libjs-moment libjs-requirejs
+  libjs-requirejs-text libjs-terser libjs-text-encoding libjs-xterm
+  liblimesuite20.10-1 libnautilus-extension1a libopenh264-6 libpcap-dev
+  libpcap0.8-dev libplacebo192 libthrift-0.16.0 libubootenv-tool
+  libubootenv0.1 libuhd4.2.0 libwireshark15 libwiretap12 libwsutil13
+  libwxbase3.0-0v5 libwxgtk3.0-gtk3-0v5 lua-bitop lua-cjson node-jed
+  node-terser pandoc pandoc-data python3-flask-restx python3-ipython-genutils
+  python3-ipywidgets python3-jupyterlab-pygments python3-nbclient
+  python3-nbconvert python3-notebook python3-pandocfilters
+  python3-prometheus-client python3-send2trash python3-terminado
+  python3-testpath python3-widgetsnbextension u-boot-tools
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libnginx-mod-http-geoip libnginx-mod-http-image-filter
+  libnginx-mod-http-xslt-filter libnginx-mod-mail libnginx-mod-stream
+  libnginx-mod-stream-geoip nginx-common nginx-core
+Suggested packages:
+  fcgiwrap nginx-doc
+The following packages will be upgraded:
+  libnginx-mod-http-geoip libnginx-mod-http-image-filter
+  libnginx-mod-http-xslt-filter libnginx-mod-mail libnginx-mod-stream
+  libnginx-mod-stream-geoip nginx nginx-common nginx-core
+9 upgraded, 0 newly installed, 0 to remove and 518 not upgraded.
+Need to get 1,291 kB of archives.
+After this operation, 183 kB disk space will be freed.
+Get:1 http://kali.download/kali kali-rolling/main amd64 nginx all 1.22.0-3.1 [76.8 kB]
+Get:2 http://kali.download/kali kali-rolling/main amd64 nginx-core amd64 1.22.0-3.1 [512 kB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 libnginx-mod-stream-geoip amd64 1.22.0-3.1 [81.5 kB]
+Get:4 http://kali.download/kali kali-rolling/main amd64 libnginx-mod-stream amd64 1.22.0-3.1 [141 kB]
+Get:5 http://kali.download/kali kali-rolling/main amd64 libnginx-mod-mail amd64 1.22.0-3.1 [116 kB]
+Get:6 http://kali.download/kali kali-rolling/main amd64 libnginx-mod-http-xslt-filter amd64 1.22.0-3.1 [84.5 kB]
+Get:7 http://kali.download/kali kali-rolling/main amd64 libnginx-mod-http-geoip amd64 1.22.0-3.1 [82.3 kB]
+Get:8 http://kali.download/kali kali-rolling/main amd64 libnginx-mod-http-image-filter amd64 1.22.0-3.1 [86.0 kB]
+Get:9 http://kali.download/kali kali-rolling/main amd64 nginx-common all 1.22.0-3.1 [111 kB]
+apt-listchanges: Reading changelogs...
+Preconfiguring packages ...
+Fetched 1,291 kB in 1s (1,951 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 729381 files and directories currently installed.)
+Preparing to unpack .../0-nginx_1.22.0-3.1_all.deb ...
+Unpacking nginx (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../1-nginx-core_1.22.0-3.1_amd64.deb ...
+Unpacking nginx-core (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../2-libnginx-mod-stream-geoip_1.22.0-3.1_amd64.deb ...
+Unpacking libnginx-mod-stream-geoip (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../3-libnginx-mod-stream_1.22.0-3.1_amd64.deb ...
+Unpacking libnginx-mod-stream (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../4-libnginx-mod-mail_1.22.0-3.1_amd64.deb ...
+Unpacking libnginx-mod-mail (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../5-libnginx-mod-http-xslt-filter_1.22.0-3.1_amd64.deb ...
+Unpacking libnginx-mod-http-xslt-filter (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../6-libnginx-mod-http-geoip_1.22.0-3.1_amd64.deb ...
+Unpacking libnginx-mod-http-geoip (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../7-libnginx-mod-http-image-filter_1.22.0-3.1_amd64.deb ...
+Unpacking libnginx-mod-http-image-filter (1.22.0-3.1) over (1.22.0-3) ...
+Preparing to unpack .../8-nginx-common_1.22.0-3.1_all.deb ...
+Unpacking nginx-common (1.22.0-3.1) over (1.22.0-3) ...
+Setting up nginx-common (1.22.0-3.1) ...
+insserv: warning: current start runlevel(s) (empty) of script `nginx' overrides LSB defaults (2 3 4 5).
+insserv: warning: current stop runlevel(s) (0 1 2 3 4 5 6) of script `nginx' overrides LSB defaults (0 1 6).
+insserv: Script `ssh' has overlapping Default-Start and Default-Stop runlevels (2 3 4 5) and (2 3 4 5). This should be fixed.
+Setting up libnginx-mod-http-xslt-filter (1.22.0-3.1) ...
+Setting up libnginx-mod-http-geoip (1.22.0-3.1) ...
+Setting up libnginx-mod-mail (1.22.0-3.1) ...
+Setting up libnginx-mod-http-image-filter (1.22.0-3.1) ...
+Setting up libnginx-mod-stream (1.22.0-3.1) ...
+Setting up libnginx-mod-stream-geoip (1.22.0-3.1) ...
+Setting up nginx-core (1.22.0-3.1) ...
+Upgrading binary: nginx.
+Setting up nginx (1.22.0-3.1) ...
+Processing triggers for kali-menu (2022.4.1) ...
+Processing triggers for man-db (2.10.2-3) ...
